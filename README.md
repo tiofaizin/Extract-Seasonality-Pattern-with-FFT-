@@ -19,3 +19,6 @@ I use 37-years daily precipitation from CHIRPS which is rainfall estimates from 
 ### Things might you find hard to grasp
 - About the FFT Formula. Since FFT is extremely complex formula, I suggest having a look at some article about how's FFT work. [Check this gentle introduction](https://www.earlevel.com/main/2002/08/31/a-gentle-introduction-to-the-fft/#:~:text=The%20FFT%20works%20by%20requiring,and%20multiplication%20is%20not%20needed.)
 - After applying FFT to your data, you will probably confused with the step afterward as mentioned in the jupyter notebook that the FFT result is mirrored. [Why FFT is mirrored?](https://dsp.stackexchange.com/questions/4825/why-is-the-fft-mirrored)
+
+### Licence
+This is a public domain work, dedicated using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to do whatever you want with it.
